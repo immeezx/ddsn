@@ -23,7 +23,7 @@ console.log("log");
 
 
 
- const devs = ["483462854809354251"];
+ const devs = ["546043990378676266"];
 const adminprefix = ["*"];
 client.on('message', message => {
     var argresult = message.content.split(` `).slice(1).join(' ');
